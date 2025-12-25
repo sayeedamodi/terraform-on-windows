@@ -44,13 +44,13 @@ terraform
 
 3. Copy `terraform.exe` into this newly created folder.
 
+4. Now copy the folder path.
+
 ![Terraform Folder](https://github.com/user-attachments/assets/274d7bc5-b7ce-40f0-9873-98b11f2d952e)
 
 ---
 
 ## Step 4: Add Terraform to System PATH
-
-1. Copy the folder path:
 
 ```
 
